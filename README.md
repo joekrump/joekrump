@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/)
 - 📫 How to reach me: [LinkedIn](ca.linkedin.com/in/joekrump/)
 
-#### My top 5 strengths
+### My top 5 strengths
 _Results from [CliftonStrengths](https://www.gallup.com/cliftonstrengths/en/home.aspx)_
 
 - **Learner** - People exceptionally talented in the Learner theme have a great desire to learn and want to continuously improve. The process of learning, rather than the outcome, excites them.
