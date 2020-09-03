@@ -1,7 +1,7 @@
 ### Hi there, I'm Joe! 👋🏻
 
 - 🔭 I’m a Dev Manager at [Clio](clio.com).
-- 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/)
+- 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/), and I'm strengthening my TypeScript skills 💪🏻.
 - 📫 How to reach me: [LinkedIn](ca.linkedin.com/in/joekrump/)
 
 ### My top 5 strengths
