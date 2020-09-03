@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Joe! 👋🏻
+
+- 🔭 I’m a Dev Manager at [Clio](clio.com).
+- 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/)
 
 <!--
 **joekrump/joekrump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
