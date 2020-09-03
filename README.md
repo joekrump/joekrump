@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Dev Manager at [Clio](clio.com).
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/) and [TailwindCSS](https://tailwindcss.com/)
-- 📫 How to reach me: ca.linkedin.com/in/joekrump/
+- 📫 How to reach me: [LinkedIn](ca.linkedin.com/in/joekrump/)
 
 #### My top 5 strengths
 _Results from [CliftonStrengths](https://www.gallup.com/cliftonstrengths/en/home.aspx)_
