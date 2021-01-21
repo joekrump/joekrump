@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Dev Manager at [Clio](clio.com), working with my team to improve the frontend infrastrucute of our applications.
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/), Flutter, and React Native.
-- 💪🏻 I've worked a lot with React, AngularJS, and TypeScript!
+- 💪🏻 I've worked a lot with React, Ruby on Rails, AngularJS, and TypeScript!
 - 📫 If you'd like to connect, find me on [LinkedIn](ca.linkedin.com/in/joekrump/) 🙂
 
 <!--
