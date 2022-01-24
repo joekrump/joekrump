@@ -2,7 +2,7 @@
 
 I love solving problems together with other people, often through conversation and code! Reach out on [LinkedIn](ca.linkedin.com/in/joekrump/) if you think there's an opportunity for us to work together on something.
 
-- 🔭 I work as a software developer on the frontend infrastructure team at [Clio](clio.com). **[We're hiring!](https://grnh.se/4dq6mp1)**
+- 🔭 I work as a senior software developer on the frontend infrastructure team at [Clio](clio.com). **[We're hiring!](https://grnh.se/4dq6mp1)**
 - 🌱 I’m growing my technical skills by learning [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/).
 - 💪🏻 I've worked a lot with React, AngularJS, TypeScript, and Ruby on Rails.
 
