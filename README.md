@@ -20,3 +20,4 @@ I love solving problems together with other people, often through conversation a
 5. [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
 6. [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 7. [99 Bottles of OOP](https://sandimetz.com/99bottles)
+8. [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
