@@ -2,17 +2,19 @@
 
 ### TLDR:
 
-- 🔭 I work as a senior software developer on the frontend infrastructure team at [Clio](clio.com).
+- 🔭 I help design and build software with my team at [Devpost](https://devpost.com/).
 - 💪🏻 I've worked a lot with React, AngularJS, TypeScript, and Ruby on Rails.
-- 🧪 I tinker a lot with [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/).
-- 🏋️ I'm building my [Vue](https://vuejs.org/) skills.
+- 🧪 I tinker with [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/).
+- 🏋️ I am building my [Vue](https://vuejs.org/) skills.
+- 🌱 I am starting to learn Rust.
 
 ### Things I'm working to get better at
 - 👨🏻‍🍳 Cooking
 
-### Things I enjoy
-- 🌳 Spending time outdoors
-- 🧱 Building with Lego
+### I enjoy...
+- 👨‍👩‍👦 Spending time with family
+- 🌳 Being outdoors
+- 🧱 Building Lego
 
 ### Recommended Reading List
 
