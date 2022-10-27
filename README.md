@@ -6,7 +6,6 @@
 - 💪🏻 I've worked a lot with React, AngularJS, TypeScript, and Ruby on Rails.
 - 🧪 I tinker with [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/).
 - 🏋️ I am building my [Vue](https://vuejs.org/) skills.
-- 🌱 I am starting to learn Rust.
 
 ### Things I'm working to get better at
 - 👨🏻‍🍳 Cooking
