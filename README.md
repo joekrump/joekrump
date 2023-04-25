@@ -2,7 +2,7 @@
 
 ### TLDR:
 
-- 🔭 I help design and build software with my team at [Devpost](https://devpost.com/).
+- 🏗️ I help design and build software with my team at [Devpost](https://devpost.com/).
 - 💪🏻 I've worked a lot with React, AngularJS, TypeScript, and Ruby on Rails.
 - 🧪 I tinker with [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/).
 - 🏋️ I am building my [Vue](https://vuejs.org/) skills.
