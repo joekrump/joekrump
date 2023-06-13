@@ -24,7 +24,9 @@
 | [PodRocket](https://podrocket.logrocket.com/) | 🎧 Podcast |
 | [Syntax](https://syntax.fm/)  | 🎧 Podcast  |
 | [Ruby Weekly](https://rubyweekly.com/) | 📰 Newsletter |
-| [Learn with Jason](https://www.learnwithjason.dev/) | 🖥️ Stream |
+| [GUI Challenges](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ) | 🖥️ Video |
+| [HTTP 203](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9) | 🖥️ Video |
+| [Learn with Jason](https://www.learnwithjason.dev/) | 🖥️ Video |
 
 ### Recommended Reading List
 
