@@ -15,6 +15,17 @@
 - 🌳 Being outdoors
 - 🧱 Building Lego
 
+### Tech things I'm tapped into:
+| Name | Type |
+|----------|----------|
+| [Engineering Enablement](https://getdx.com/engineering-enablement-podcast) | 🎧 Podcast |
+| [Frontend Happy Hour](https://www.frontendhappyhour.com/)  | 🎧 Podcast  |
+| [JS Party](https://changelog.com/jsparty)  | 🎧 Podcast  |
+| [PodRocket](https://podrocket.logrocket.com/) | 🎧 Podcast |
+| [Syntax](https://syntax.fm/)  | 🎧 Podcast  |
+| [Ruby Weekly](https://rubyweekly.com/) | 📰 Newsletter |
+| [Learn with Jason](https://www.learnwithjason.dev/) | 🖥️ Stream |
+
 ### Recommended Reading List
 
 1. [The Effective Engineer](https://www.effectiveengineer.com/book) - How to Maximize Your Impact
