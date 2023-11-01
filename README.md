@@ -2,20 +2,20 @@
 
 ### TLDR:
 
-- 🏗️ I help design and build software with my team at [Devpost](https://devpost.com/).
-- 💪🏻 I've worked a lot with React, AngularJS, TypeScript, and Ruby on Rails.
-- 🧪 I tinker with [Svelte](https://svelte.dev/) and [Flutter](https://flutter.dev/).
-- 🏋️ I am building my [Vue](https://vuejs.org/) skills.
+- 🏗️ I design and build software with the team at [Walter](https://getwalter.com/).
+- 💪🏻 I've worked a lot with Vue, Ruby on Rails, React, AngularJS, and TypeScript.
+- 🏋️‍♂️ I'm focused on strengthening my [Svelte](https://svelte.dev/) skills.
+- 🧪 I tinker with [Flutter](https://flutter.dev/) and mobile apps.
 
 ### Things I'm working to get better at
 - 👨🏻‍🍳 Cooking
 
-### I enjoy...
-- 👨‍👩‍👦 Spending time with family
-- 🌳 Being outdoors
+### Thinks I like...
+- 👨‍👩‍👦 Hanging out with family
+- 🌳 Spending time outdoors
 - 🧱 Building Lego
 
-### Tech things I'm tapped into:
+### Tech stuff I follow:
 | Name | Type |
 |----------|----------|
 | [Engineering Enablement](https://getdx.com/engineering-enablement-podcast) | 🎧 Podcast |
@@ -23,6 +23,7 @@
 | [JS Party](https://changelog.com/jsparty)  | 🎧 Podcast  |
 | [PodRocket](https://podrocket.logrocket.com/) | 🎧 Podcast |
 | [Syntax](https://syntax.fm/)  | 🎧 Podcast  |
+| [Remote Ruby](https://www.remoteruby.com/) | 🎧 Podcast |
 | [Ruby Weekly](https://rubyweekly.com/) | 📰 Newsletter |
 | [GUI Challenges](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ) | 🖥️ Video |
 | [HTTP 203](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9) | 🖥️ Video |
