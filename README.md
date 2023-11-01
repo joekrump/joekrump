@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I'm Joe!
 
-### TLDR:
+### TLDR
 
 - 🏗️ I design and build software with the team at [Walter](https://getwalter.com/).
 - 💪🏻 I've worked a lot with Vue, Ruby on Rails, React, AngularJS, and TypeScript.
