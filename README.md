@@ -1,10 +1,11 @@
 ## 👋🏻 Hi, I'm Joe!
 
+I occasionally write things on https://josephkrump.com/
+
 ### TLDR
 
 - 🏗️ I design and build software with the team at [Walter](https://getwalter.com/).
-- 💪🏻 I've worked a lot with Vue, Ruby on Rails, React, AngularJS, and TypeScript.
-- 🏋️‍♂️ I'm focused on strengthening my [Svelte](https://svelte.dev/) skills.
+- 💪🏻 I've worked a lot with Svelte, Ruby on Rails, Vue, and React.
 - 🧪 I tinker with [Flutter](https://flutter.dev/) and mobile apps.
 
 ### Things I'm working to get better at
@@ -14,6 +15,7 @@
 - 👨‍👩‍👦 Hanging out with family
 - 🌳 Spending time outdoors
 - 🧱 Building Lego
+- 🎶 [What I'm listening to](https://josephkrump.com/now)
 
 ### Tech stuff I follow:
 | Name | Type |
