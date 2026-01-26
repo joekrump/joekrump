@@ -8,9 +8,6 @@ I occasionally write things on https://josephkrump.com/
 - 💪🏻 I've worked a lot with Svelte, Ruby on Rails, Vue, and React.
 - 🧪 I tinker with [Flutter](https://flutter.dev/) and mobile apps.
 
-### Things I'm working to get better at
-- 👨🏻‍🍳 Cooking
-
 ### Thinks I like...
 - 👨‍👩‍👦 Hanging out with family
 - 🌳 Spending time outdoors
